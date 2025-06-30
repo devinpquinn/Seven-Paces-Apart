@@ -153,10 +153,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentNode: {fileID: 11400000, guid: 7aea99589eaaa7247b23a224dbb87c57, type: 2}
   descriptionText: {fileID: 526032359}
-  optionAButton: {fileID: 6947466576017155737}
-  optionBButton: {fileID: 1276003825}
-  optionAText: {fileID: 6947466576017155736}
-  optionBText: {fileID: 1276003824}
+  optionButton1: {fileID: 6947466576017155737}
+  optionButton2: {fileID: 1276003825}
+  optionText1: {fileID: 6947466576017155736}
+  optionText2: {fileID: 1276003824}
 --- !u!4 &129868142
 Transform:
   m_ObjectHideFlags: 0
