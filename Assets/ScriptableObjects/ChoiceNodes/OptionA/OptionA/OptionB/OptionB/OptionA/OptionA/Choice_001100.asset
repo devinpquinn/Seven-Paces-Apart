@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 414b7b19821279b4baad9bb0fb564bc9, type: 3}
+  m_Name: Choice_001100
+  m_EditorClassIdentifier: 
+  description: Choice node at path 001100
+  optionAText: Option A
+  optionAScoreChange: 0
+  nextNodeA: {fileID: 11400000, guid: 88c9d5ed57434f8489c2ed0275a66310, type: 2}
+  optionBText: Option B
+  optionBScoreChange: 0
+  nextNodeB: {fileID: 11400000, guid: b52bbe5733e14154fbb21ba4ba5642f8, type: 2}
+  isFinalNode: 0
